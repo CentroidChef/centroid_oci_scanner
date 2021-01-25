@@ -10,7 +10,7 @@ This script works best in OCI cloud shell. Please see here for more details on h
 Once you are in the OCI Cloud shell, you can easily download and run the script using git clone:
 
 ```
-git clone https://github.com/revnav/centroid_oci_scanner.git
+git clone https://github.com/CentroidChef/centroid_oci_scanner.git
 ```
 Provide executable permission on the script and run the script
 
