@@ -6,10 +6,9 @@ navdeep.saini@centroid.com
 This script works best in OCI cloud shell. Please see here for more details on how to use cloud shell
 [Oracle Cloud Shell](https://docs.oracle.com/en-us/iaas/Content/API/Concepts/devcloudshellgettingstarted.htm#Using_Cloud_Shell)
 
-!!!Please note before running the script!!!
+## Instructions
 This script need tenancy name as input to run the script. The tenancy name be anything you wish to give to uniquely identify your OCI tenant or you can provide the actual name for the tenancy.
 
-## Instructions
 Once you are in the OCI Cloud shell, you can easily download and run the script using git clone:
 
 ```
