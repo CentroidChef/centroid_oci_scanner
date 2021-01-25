@@ -15,6 +15,7 @@ git clone https://github.com/CentroidChef/centroid_oci_scanner.git
 Provide executable permission on the script and run the script
 
 ```
+cd centroid_oci_scanner/
 chmod +x centroid_oci_scanner.sh
 ./centroid_oci_scanner.sh
 
