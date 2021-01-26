@@ -1,5 +1,5 @@
 # centroid_oci_scanner
-This is centroid OCI Inventory generation script. This is a reporting tool which uses the Python SDK to extract list of resources from your tenant and upload the output of Centroid managed object store. For additional questions please reach out to:
+This is centroid OCI Inventory generation script. This is a reporting tool which uses the Python SDK to extract list of resources from your tenant and upload the output to Centroid managed object store. For additional questions please reach out to:
 cloudadmin@centroid.com
 
 ## Prerequisites
