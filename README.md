@@ -7,7 +7,7 @@ This script works best in OCI cloud shell. Please see here for more details on h
 [Oracle Cloud Shell](https://docs.oracle.com/en-us/iaas/Content/API/Concepts/devcloudshellgettingstarted.htm#Using_Cloud_Shell)
 
 ## Instructions
-This script need tenancy name as input to run the script. The tenancy name be anything you wish to give to uniquely identify your OCI tenant or you can provide the actual name for the tenancy.
+This script need tenancy name as input to run the script. The tenancy name can be anything that you wish to give to uniquely identify your OCI tenant or you can provide the actual name for the tenancy.
 
 Once you are in the OCI Cloud shell, you can easily download and run the script using git clone:
 
